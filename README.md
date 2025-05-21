@@ -31,11 +31,11 @@ Los gráficos generados se guardan automáticamente en la carpeta `/graficos`:
 *Países con mayor número de ciberataques registrados*
 
 ### 2. Tipos de Amenazas  
-![Distribución de Ataques](graficos/tipoq_staque_pie.png)  
+![Distribución de Ataques](graficos/tipos_ataque_pie.png)  
 *Proporción de diferentes tipos de ataques cibernéticos*
 
 ### 3. Evolución Temporal
-![Tendencias Anuales](graficos/predictas_anuales.png)  
+![Tendencias Anuales](graficos/perdidas_anuales.png)  
 *Variación de incidentes a lo largo del período 2015-2024*
 
 ---
