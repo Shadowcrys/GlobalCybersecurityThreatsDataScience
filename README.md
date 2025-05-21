@@ -41,6 +41,6 @@ Los gráficos generados se guardan automáticamente en la carpeta `/graficos`:
 ---
 
 ### 🔍 Cómo visualizarlos
-1. Ejecuta el script principal:
+Ejecuta el script principal
 
 
