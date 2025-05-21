@@ -9,7 +9,7 @@ Análisis de datos sobre ataques cibernéticos a nivel mundial, incluyendo patro
 
 ## 📋 Contenido
 - [Instalación](#instalación)
-- [Uso](#uso)
+- [Uso](#python GlobalCybersecurityThreadsDataScience.py)
 - [Resultados](#resultados)
 - [Estructura](#estructura-del-proyecto) 
 - [Tecnologías](#tecnologías)
