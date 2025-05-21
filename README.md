@@ -27,15 +27,15 @@ Los gráficos generados se guardan automáticamente en la carpeta `/graficos`:
 ## 📌 Gráficos Generados
 
 ### 1. Análisis por Países
-![Top Países](GlobalCybersecurityThreatsDataScience/Proyecto/graficos/top_paises.png)  
+![Top Países](Proyecto/graficos/top_paises.png)  
 *Países con mayor número de ciberataques registrados*
 
 ### 2. Tipos de Amenazas  
-![Distribución de Ataques](GlobalCybersecurityThreatsDataScience/Proyecto/graficos/tipos_ataque_pie.png)  
+![Distribución de Ataques](Proyecto/graficos/tipos_ataque_pie.png)  
 *Proporción de diferentes tipos de ataques cibernéticos*
 
 ### 3. Evolución Temporal
-![Tendencias Anuales](GlobalCybersecurityThreatsDataScience/Proyecto/graficos/perdidas_anuales.png)  
+![Tendencias Anuales](Proyecto/graficos/perdidas_anuales.png)  
 *Variación de incidentes a lo largo del período 2015-2024*
 
 ---
