@@ -20,12 +20,27 @@ git clone https://github.com/Shadowcrys/GlobalCybersecurityThreatsDataScience.gi
 cd GlobalCybersecurityThreatsDataScience
 pip install -r requirements.txt
 ```
-📊 Resultados
-Los gráficos generados se guardan en /graficos:
+# 📊 Resultados
 
-top_paises.png: Países con más ataques
+Los gráficos generados se guardan automáticamente en la carpeta `/graficos`:
 
-tipos_ataque_pie.png: Distribución de tipos de ataque
+## 📌 Gráficos Generados
 
-perdidas_anuales.png: Evolución temporal
+### 1. Análisis por Países
+![Top Países](graficos/top_paises.png)  
+*Países con mayor número de ciberataques registrados*
+
+### 2. Tipos de Amenazas  
+![Distribución de Ataques](graficos/tipoq_staque_pie.png)  
+*Proporción de diferentes tipos de ataques cibernéticos*
+
+### 3. Evolución Temporal
+![Tendencias Anuales](graficos/predictas_anuales.png)  
+*Variación de incidentes a lo largo del período 2015-2024*
+
+---
+
+### 🔍 Cómo visualizarlos
+1. Ejecuta el script principal:
+
 
