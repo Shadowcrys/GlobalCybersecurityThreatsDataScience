@@ -9,7 +9,6 @@ Análisis de datos sobre ataques cibernéticos a nivel mundial, incluyendo patro
 
 ## 📋 Contenido
 - [Instalación](#instalación)
-- [uso](#uso)
 - [Resultados](#resultados)
 - [Estructura](#estructura-del-proyecto) 
 - [Tecnologías](#tecnologías)
@@ -20,3 +19,13 @@ Análisis de datos sobre ataques cibernéticos a nivel mundial, incluyendo patro
 git clone https://github.com/Shadowcrys/GlobalCybersecurityThreatsDataScience.git
 cd GlobalCybersecurityThreatsDataScience
 pip install -r requirements.txt
+```
+📊 Resultados
+Los gráficos generados se guardan en /graficos:
+
+top_paises.png: Países con más ataques
+
+tipos_ataque_pie.png: Distribución de tipos de ataque
+
+perdidas_anuales.png: Evolución temporal
+
